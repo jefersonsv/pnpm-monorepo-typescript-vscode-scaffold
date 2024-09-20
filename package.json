@@ -1,0 +1,16 @@
+{
+  "name": "@repo/root",
+  "private": true,
+  "scripts": {
+    "clean": "rimraf node_modules && rimraf apps/cli1/node_modules && rimraf packages/lib1/node_modules",
+    "f5": "pnpm run clean && pnpm i"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.5"
+  },
+  "packageManager": "pnpm@8.15.6",
+  "engines": {
+    "node": ">=18"
+  }
+}
