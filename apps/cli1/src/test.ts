@@ -1,3 +1,3 @@
-import { calc11 } from "@repo/lib1";
-console.info("oi", calc11(1, 2));
-console.info("oi");
+import { db1 } from "@repo/lib1/databases";
+console.info(db1());
+console.info("end");
