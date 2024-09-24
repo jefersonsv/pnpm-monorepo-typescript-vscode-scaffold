@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "🚀 @repo/cli1",
+      "path": "apps/cli1",
+    },
+    {
+      "name": "📦 @repo/lib1",
+      "path": "packages/lib1",
+    },
+    {
+      "name": "📦 @repo/typescript-config",
+      "path": "packages/typescript-config",
+    },
+  ],
+}
